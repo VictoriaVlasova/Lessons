@@ -1,0 +1,1 @@
+10000.times{ print rand(3..120).chr}
